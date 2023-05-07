@@ -1,0 +1,166 @@
+body h2 h3{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    padding: 0px;
+    background-color: #39B24B;
+    margin-top: 10px;
+}
+.bdjobs{
+    color: red;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.bdjobs h2 span{
+    color: blue
+}
+.bdjobs-heading{
+    font-size: 40px;
+    font-weight: 900;
+    letter-spacing: 2px;
+    padding: 0px 0px 8px 90px;
+    background-color: white;
+    border-top-right-radius: 50px; 
+    border-bottom-right-radius: 50px;
+}
+.bdjobs-date{
+    width: 150px;
+    height: 130px;
+    background-color: #EC2127;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.bdjobs-date .date-on{
+    font-size: 35px;
+    padding-top: 20px;
+    font-family: "Segoe UI Historic", "Segoe UI", Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    text-align: center;
+    color: white;
+}
+.bdjobs-date .date-on span{
+    font-size: 50px;
+}
+.freshers-word{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+    margin-bottom: 0;
+    color: #EA3C24;
+    padding: 10px;
+    letter-spacing: 7px;
+    background-color: white;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.career-word{
+    text-align: center;
+    font-size: 90px;
+    font-weight: 700;
+    font-family: "Segoe UI Historic", "Segoe UI", Helvetica, Arial, sans-serif;;
+    color: white;
+    letter-spacing: 15px;
+    background-color: #1B5EA2;
+    border-radius: 20px;
+}
+.fair-word{
+    text-align: center;
+    font-size: 140px;
+    font-weight: 700;
+    font-family: "Segoe UI Historic", "Segoe UI", Helvetica, Arial, sans-serif;;
+    color: white;
+    letter-spacing: 10px;
+    border-radius: 20px; 
+}
+.companise{
+    margin-bottom: 150px;
+}
+.organaition{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 500;
+    font-family: "Segoe UI Historic", "Segoe UI", Helvetica, Arial, sans-serif;;
+    color: white;
+    padding: 5px;
+    background-color: #1B5EA2;
+    border-radius: 30px; 
+}
+.organaition span{
+    color: #D6CF21;
+}
+.register{
+    position: relative;
+ }
+.registation{
+    background-color: #EBF6E8;
+    padding: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    display: flex; 
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 4px dotted green;
+
+}
+.content{
+    text-align: center;
+    width: 60%;
+    margin-right: 5%;
+}
+.content-p1{
+    font-size: 30px;
+    font-weight: 500;
+    color: red;
+    padding-top: 20px;
+    letter-spacing: 2px;
+    margin-bottom: 0;
+}
+.content-p2{
+    font-size: 30px;
+    font-weight: 500;
+    letter-spacing: 2px; 
+    margin-bottom: 0;
+}
+.call{
+    font-size: 30px;
+    font-weight: 500;
+    color: #049E68;
+    letter-spacing: 5px; 
+    margin-bottom: 0; 
+    text-decoration: none;
+}
+.scaner{
+    width: 30%;  
+}
+.scaner img{
+    width: 100%;
+    height: 100%;
+}
+.footer-part{
+    text-align: center;
+    background-color: #EBF6E8;
+    border: 1px solid #39B24B;
+    box-sizing: border-box;
+}
+footer .container{
+    margin: 0px auto;
+    margin-bottom: 10px;
+}
+.footer-part {
+    height: 250px;
+    padding-top: 140px;
+    font-size: 30px;
+    font-weight: 500;
+}
+.footer-part .fa-solid{
+    color: #EC2127;
+}
+.footer-part span{
+    color: #EC2127;
+}
+/* register part  */
+
+
